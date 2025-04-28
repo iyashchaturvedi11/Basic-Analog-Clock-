@@ -1,4 +1,3 @@
-```markdown
 # 🕰️ Analog Clock with HTML, CSS, and JavaScript
 
 This project is a simple and beautiful **Analog Clock** built using just **HTML**, **CSS**, and **JavaScript**.
@@ -23,8 +22,7 @@ It shows the current system time in real-time with moving hour, minute, and seco
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone [https://github.com/your-username/analog-clock.git](https://github.com/your-username/analog-clock.git)
-   ```
+   git clone https://github.com/your-username/analog-clock.git
 2. **Open the project folder**
 3. **Open `index.html` in your web browser**
 
